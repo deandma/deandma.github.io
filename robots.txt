@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://deandma.github.io/sitemap.html.gz
+Sitemap: https://deandma.github.io/app/sitemap.html.gz
+Sitemap: https://deandma.github.io/assets/sitemap.html.gz
+Sitemap: https://deandma.github.io/css/sitemap.html.gz
+Sitemap: https://deandma.github.io/data/sitemap.html.gz
+Sitemap: https://deandma.github.io/includes/sitemap.html.gz
+Sitemap: https://deandma.github.io/item/sitemap.html.gz
+Sitemap: https://deandma.github.io/src/sitemap.html.gz
